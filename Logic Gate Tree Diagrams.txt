@@ -1,0 +1,92 @@
+Logic Gate Tree Diagrams:
+Designed by Sourceduty.
+
+
+NOT Gate:
+
+Input 
+     \
+      1 or 0
+       \    \	
+	0    1
+         \____\____ Output
+
+
+AND Gate:
+
+Input A
+       \__1 or 0
+          |\  /|
+          | \/ |
+          | /\ |                   
+Input B   |/  \|                  
+       \__1 or 0                  
+         /|    |\                
+        0 1    0 0
+
+
+OR GATE:
+
+Input A
+       \__1 or 0
+          |\  /|
+          | \/ |
+          | /\ |                   
+Input B   |/  \|                  
+       \__1 or 0                  
+         /|    |\                
+        1 1    0 1
+
+
+XOR GATE:
+
+Input A
+       \__1 or 0
+          |\  /|
+          | \/ |
+          | /\ |                   
+Input B   |/  \|                  
+       \__1 or 0                  
+         /|    |\                
+        1 0    0 1
+
+
+NAND GATE:
+
+Input A
+       \__1 or 0
+          |\  /|
+          | \/ |
+          | /\ |                   
+Input B   |/  \|                  
+       \__1 or 0                  
+         /|    |\                
+        1 0    1 1
+
+
+NOR GATE:
+
+Input A
+       \__1 or 0
+          |\  /|
+          | \/ |
+          | /\ |                   
+Input B   |/  \|                  
+       \__1 or 0                  
+         /|    |\                
+        0 0    1 0
+
+
+XNOR GATE:
+
+Input A
+       \__1 or 0
+          |\  /|
+          | \/ |
+          | /\ |                   
+Input B   |/  \|                  
+       \__1 or 0                  
+         /|    |\                
+        0 1    1 0
+
+
