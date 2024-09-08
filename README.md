@@ -1,3 +1,5 @@
+<img width="914" alt="Logic" src="https://github.com/user-attachments/assets/855ef479-b7f8-4c11-8e25-dfe924c6e1c7">
+
 > All logic gate combinations visualized using tree diagrams.
 
 #
