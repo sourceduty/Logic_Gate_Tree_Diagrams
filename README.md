@@ -20,6 +20,8 @@ Different types of logic gates perform distinct operations. For example, an AND 
 [Computational Logic](https://github.com/sourceduty/Computational_Logic)
 <br>
 [Material Computation](https://github.com/sourceduty/Material_Computation)
+<br>
+[Logic](https://github.com/sourceduty/Logic)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
